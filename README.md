@@ -1,7 +1,7 @@
 # Maltego
 Cybersecurity Exploration with Maltego 
 🔍 Cybersecurity Exploration with Maltego 🔍
-In my internship in TechnoHacks EduTech with my mentor Sandip Gavit i just completed an information gathering task using Maltego, a powerful OSINT and cybersecurity tool. The target site was https://lnkd.in/eEuxSxyD.
+In my internship in @TechnoHacks EduTech with my mentor @Sandip Gavit i just completed an information gathering task using Maltego, a powerful OSINT and cybersecurity tool. The target site was https://testphp.vulnweb.com
 
 🌐 Key Achievements:
 
